@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
+| [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
