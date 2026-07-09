@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepikamudiyala/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepikamudiyala/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
