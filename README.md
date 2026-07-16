@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/deepikamudiyala/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikamudiyala/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,17 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/deepikamudiyala/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepikamudiyala/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepikamudiyala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepikamudiyala/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
