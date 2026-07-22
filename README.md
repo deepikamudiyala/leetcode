@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepikamudiyala/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikamudiyala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/deepikamudiyala/leetcode/tree/master/0496-next-greater-element-i) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepikamudiyala/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikamudiyala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
