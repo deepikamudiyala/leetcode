@@ -3,7 +3,8 @@ class Solution:
         j=prices[0]
         profit=0
         for i in range(len(prices)):
-            pro=prices[i]-j
-            profit=max(profit,pro)
-            j=min(prices[i],j)
+            if prices[i]<j:
+                j=prices[i]
+            profit=max(profit,prices[i]-j)
+            
         return profit
