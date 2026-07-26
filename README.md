@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/deepikamudiyala/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/deepikamudiyala/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepikamudiyala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepikamudiyala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
