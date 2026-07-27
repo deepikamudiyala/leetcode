@@ -2,13 +2,9 @@ class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         a={}
         for i in magazine:
-            if i not in a:
-                a[i]=1
-            else:
-                a[i]+=1
+                a[i]=a.get(i,0)+1
         for i in ransomNote:
-            if i in a and a[i]>0:
-                a[i]-=1
-            else:
+            if a.get(i,0)==0:
                 return False
+            a[i]-=1
         return True
