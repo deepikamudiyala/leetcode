@@ -1,6 +1,5 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        count=0
         a={}
         for i in magazine:
             if i not in a:
