@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepikamudiyala/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/deepikamudiyala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/deepikamudiyala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
