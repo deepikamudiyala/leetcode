@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepikamudiyala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepikamudiyala/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
