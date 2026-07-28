@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/deepikamudiyala/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/deepikamudiyala/leetcode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/deepikamudiyala/leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
