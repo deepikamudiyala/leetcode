@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepikamudiyala/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepikamudiyala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/deepikamudiyala/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deepikamudiyala/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepikamudiyala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepikamudiyala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deepikamudiyala/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
