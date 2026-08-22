@@ -1,10 +1,9 @@
-from math import prod
+
 class Solution:
     def checkDivisibility(self, n: int) -> bool:
-        digits=[]
+        digisum=0
+        digipro=1
         for i in str(n):
-            digits.append(int(i))
-
-        digisum=sum(digits)
-        digipro=prod(digits)
+            digisum+=int(i)
+            digipro*=int(i)
         return (n%(digisum+digipro)==0)
