@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/deepikamudiyala/leetcode/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/deepikamudiyala/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
