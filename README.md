@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deepikamudiyala/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/deepikamudiyala/leetcode/tree/master/1089-duplicate-zeros) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/deepikamudiyala/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikamudiyala/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1796-second-largest-digit-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepikamudiyala/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikamudiyala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/deepikamudiyala/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/deepikamudiyala/leetcode/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
