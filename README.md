@@ -268,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/deepikamudiyala/leetcode/tree/master/0175-combine-two-tables) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/deepikamudiyala/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
