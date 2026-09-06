@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/deepikamudiyala/leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/deepikamudiyala/leetcode/tree/master/0577-employee-bonus) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/deepikamudiyala/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/deepikamudiyala/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/deepikamudiyala/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/deepikamudiyala/leetcode/tree/master/1795-rearrange-products-table) |
