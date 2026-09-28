@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikamudiyala/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/deepikamudiyala/leetcode/tree/master/0551-student-attendance-record-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikamudiyala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepikamudiyala/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepikamudiyala/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deepikamudiyala/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/deepikamudiyala/leetcode/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikamudiyala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepikamudiyala/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepikamudiyala/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepikamudiyala/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikamudiyala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
