@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/deepikamudiyala/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/deepikamudiyala/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepikamudiyala/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/deepikamudiyala/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepikamudiyala/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/deepikamudiyala/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/deepikamudiyala/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/deepikamudiyala/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
