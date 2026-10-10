@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/deepikamudiyala/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepikamudiyala/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/deepikamudiyala/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepikamudiyala/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepikamudiyala/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepikamudiyala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/deepikamudiyala/leetcode/tree/master/3731-find-missing-elements) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/deepikamudiyala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
 | ------- |
