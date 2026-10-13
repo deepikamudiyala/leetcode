@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/deepikamudiyala/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepikamudiyala/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepikamudiyala/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepikamudiyala/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/deepikamudiyala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepikamudiyala/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepikamudiyala/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/deepikamudiyala/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/deepikamudiyala/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepikamudiyala/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepikamudiyala/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/deepikamudiyala/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/deepikamudiyala/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepikamudiyala/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
