@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/deepikamudiyala/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikamudiyala/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/deepikamudiyala/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepikamudiyala/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepikamudiyala/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/deepikamudiyala/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/deepikamudiyala/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikamudiyala/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/deepikamudiyala/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/deepikamudiyala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/deepikamudiyala/leetcode/tree/master/0704-binary-search) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/deepikamudiyala/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
