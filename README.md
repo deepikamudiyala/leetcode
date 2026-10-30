@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepikamudiyala/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepikamudiyala/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepikamudiyala/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepikamudiyala/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepikamudiyala/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/deepikamudiyala/leetcode/tree/master/3731-find-missing-elements) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepikamudiyala/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepikamudiyala/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepikamudiyala/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikamudiyala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Interactive
 |  |
 | ------- |
