@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepikamudiyala/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/deepikamudiyala/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/deepikamudiyala/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
