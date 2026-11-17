@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepikamudiyala/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepikamudiyala/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/deepikamudiyala/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2974-minimum-number-game](https://github.com/deepikamudiyala/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepikamudiyala/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/deepikamudiyala/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepikamudiyala/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/deepikamudiyala/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2974-minimum-number-game](https://github.com/deepikamudiyala/leetcode/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepikamudiyala/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepikamudiyala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/deepikamudiyala/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepikamudiyala/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/deepikamudiyala/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/deepikamudiyala/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikamudiyala/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/deepikamudiyala/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/deepikamudiyala/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepikamudiyala/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/deepikamudiyala/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/deepikamudiyala/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikamudiyala/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikamudiyala/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/deepikamudiyala/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
