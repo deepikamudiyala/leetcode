@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepikamudiyala/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/deepikamudiyala/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepikamudiyala/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepikamudiyala/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
