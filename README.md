@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepikamudiyala/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/deepikamudiyala/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/deepikamudiyala/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepikamudiyala/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/deepikamudiyala/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepikamudiyala/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/deepikamudiyala/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/deepikamudiyala/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/deepikamudiyala/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepikamudiyala/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/deepikamudiyala/leetcode/tree/master/0506-relative-ranks) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepikamudiyala/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/deepikamudiyala/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/deepikamudiyala/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/deepikamudiyala/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/deepikamudiyala/leetcode/tree/master/0621-task-scheduler) |
@@ -616,4 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/deepikamudiyala/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepikamudiyala/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepikamudiyala/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
